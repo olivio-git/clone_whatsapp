@@ -1,0 +1,10 @@
+.width{
+    width: 100%;
+} 
+.heigth{
+    min-height: 100vh;
+}
+.bar-contain{ 
+    border: 1px solid gray;
+    background-color:#111B21;
+}
